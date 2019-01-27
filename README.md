@@ -15,4 +15,9 @@ Step 3: Install npm dependencies (Assuming you have npm installed)
 npm install 
 ```
 
-Step 4: Open http://localhost:3000/ in you browser
+Step 4: Starp up dev server
+```
+npm start
+```
+
+Step 5: Open http://localhost:3000/ in you browser

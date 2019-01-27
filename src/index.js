@@ -10,3 +10,19 @@ ReactDOM.render(<App />, document.getElementById('root'));
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: http://bit.ly/CRA-PWA
 serviceWorker.unregister();
+
+// import store from './store';
+// import {toggleTask, addTask} from './actions/taskActions';
+
+// console.log(store.getState());
+
+// const unsubscribe = store.subscribe(() => {console.log(store.getState());});
+
+// store.dispatch(toggleTask("1"));
+
+// store.dispatch(addTask("2", "Go to bank", "Go to bank"));
+
+// unsubscribe();
+
+
+
